@@ -1,0 +1,59 @@
+/* Design tokens — LT Pro. Lihat docs/design-system.md */
+:root {
+  /* Warna brand */
+  --c-red: #d62a1e;
+  --c-red-dark: #b01f15;
+  --c-red-soft: #fdecea;
+  --c-gold: #d4a72c;
+  --c-gold-soft: #f6ebc8;
+  --c-ink: #0e0e10;
+  --c-ink-2: #1b1b1f;
+  --c-ink-line: #2c2c33;
+
+  /* Warna netral */
+  --c-text: #24242a;
+  --c-muted: #5e5e68;
+  --c-muted-dark: #b4b4bd;
+  --c-line: #e6e3dc;
+  --c-bg: #ffffff;
+  --c-bg-soft: #f7f5f0;
+  --c-wa: #25d366;
+
+  /* Tipografi */
+  --font: "Plus Jakarta Sans", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  --fs-display: clamp(2rem, 4.2vw + 1rem, 3.4rem);
+  --fs-h2: clamp(1.6rem, 2.2vw + 1rem, 2.4rem);
+  --fs-h3: 1.25rem;
+  --fs-body: 1.0625rem;
+  --fs-small: 0.875rem;
+  --lh-tight: 1.15;
+  --lh-body: 1.65;
+
+  /* Jarak */
+  --s-1: 4px;
+  --s-2: 8px;
+  --s-3: 12px;
+  --s-4: 16px;
+  --s-5: 24px;
+  --s-6: 32px;
+  --s-7: 48px;
+  --s-8: 64px;
+  --s-9: 96px;
+
+  /* Bentuk */
+  --r-sm: 10px;
+  --r-md: 16px;
+  --r-pill: 999px;
+  --shadow: 0 12px 32px -12px rgba(14, 14, 16, 0.25);
+
+  /* Layout */
+  --container: 1120px;
+  --gutter: 16px;
+  --header-h: 68px;
+}
+
+@media (min-width: 768px) {
+  :root {
+    --gutter: 24px;
+  }
+}
