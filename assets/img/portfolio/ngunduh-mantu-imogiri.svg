@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" preserveAspectRatio="xMidYMid slice">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22150c"/><stop offset="1" stop-color="#0e0e10"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <path d="M0 70 Q200 20 400 70 Q600 20 800 70 L800 0 L0 0Z" fill="#ffffff" opacity="0.06"/>
+  <rect x="0" y="36" width="800" height="8" fill="#2c2c33"/>
+  <polygon points="140,40 50,420 210,420" fill="#d4a72c" opacity="0.10"/><polygon points="320,40 250,420 400,420" fill="#d4a72c" opacity="0.10"/><polygon points="500,40 450,420 590,420" fill="#d4a72c" opacity="0.10"/><polygon points="660,40 630,420 760,420" fill="#d4a72c" opacity="0.10"/><circle cx="140" cy="40" r="9" fill="#d4a72c"/><circle cx="140" cy="40" r="22" fill="#d4a72c" opacity="0.25"/><circle cx="320" cy="40" r="9" fill="#d4a72c"/><circle cx="320" cy="40" r="22" fill="#d4a72c" opacity="0.25"/><circle cx="500" cy="40" r="9" fill="#d4a72c"/><circle cx="500" cy="40" r="22" fill="#d4a72c" opacity="0.25"/><circle cx="660" cy="40" r="9" fill="#d4a72c"/><circle cx="660" cy="40" r="22" fill="#d4a72c" opacity="0.25"/>
+  <rect x="220" y="300" width="360" height="110" rx="6" fill="#ffffff" opacity="0.05"/>
+  <path d="M330 300 Q400 250 470 300" fill="none" stroke="#d4a72c" stroke-width="3" opacity="0.5"/>
+  <rect x="0" y="420" width="800" height="180" fill="#000" opacity="0.35"/>
+  
+  <g transform="translate(60 250)">
+    <rect width="90" height="170" rx="4" fill="#1b1b1f" stroke="#3a3a42"/>
+    <circle cx="45" cy="54.4" r="16.2" fill="#0b0b0d" stroke="#4a4a52"/>
+    <circle cx="45" cy="118.99999999999999" r="28.8" fill="#0b0b0d" stroke="#4a4a52"/>
+    <circle cx="45" cy="118.99999999999999" r="10.799999999999999" fill="#2a2a30"/>
+  </g>
+  <g transform="translate(650 250)">
+    <rect width="90" height="170" rx="4" fill="#1b1b1f" stroke="#3a3a42"/>
+    <circle cx="45" cy="54.4" r="16.2" fill="#0b0b0d" stroke="#4a4a52"/>
+    <circle cx="45" cy="118.99999999999999" r="28.8" fill="#0b0b0d" stroke="#4a4a52"/>
+    <circle cx="45" cy="118.99999999999999" r="10.799999999999999" fill="#2a2a30"/>
+  </g>
+  
+  <g transform="translate(60 420)">
+    <rect width="90" height="90" rx="4" fill="#1b1b1f" stroke="#3a3a42"/>
+    <circle cx="45" cy="28.8" r="16.2" fill="#0b0b0d" stroke="#4a4a52"/>
+    <circle cx="45" cy="62.99999999999999" r="28.8" fill="#0b0b0d" stroke="#4a4a52"/>
+    <circle cx="45" cy="62.99999999999999" r="10.799999999999999" fill="#2a2a30"/>
+  </g>
+  <g transform="translate(650 420)">
+    <rect width="90" height="90" rx="4" fill="#1b1b1f" stroke="#3a3a42"/>
+    <circle cx="45" cy="28.8" r="16.2" fill="#0b0b0d" stroke="#4a4a52"/>
+    <circle cx="45" cy="62.99999999999999" r="28.8" fill="#0b0b0d" stroke="#4a4a52"/>
+    <circle cx="45" cy="62.99999999999999" r="10.799999999999999" fill="#2a2a30"/>
+  </g>
+</svg>
