@@ -4,13 +4,13 @@ Tanggal riset: 21 November 2026
 
 ## 1. Data yang terverifikasi
 
-Sumber: listing Google Maps (screenshot dari pemilik), logo/banner di listing.
+Sumber: listing Google Maps (screenshot dari pemilik), logo/banner di listing, dan gambar price list resmi "Paket Wedding Sound System" dari pemilik.
 
 | Data | Isi |
 |---|---|
 | Nama di Google Maps | Nasir LT pro |
 | Nama brand | LT Production / LT Pro |
-| Instagram | [@ltproduction313](https://www.instagram.com/ltproduction313) |
+| Instagram | [@LT.Production](https://www.instagram.com/lt.production) (dari price list resmi; link awal dari pemilik: @ltproduction313) |
 | WhatsApp / Telepon | +62 857-4015-9888 |
 | Kategori Maps | Event Planner |
 | Jam buka (tercatat) | Sabtu 08.00–21.00 |
@@ -21,15 +21,44 @@ Sumber: listing Google Maps (screenshot dari pemilik), logo/banner di listing.
 
 Email di listing sengaja **tidak** ditampilkan di website.
 
+## 1b. Price list resmi (dari pemilik, 21 Nov 2026)
+
+**Sound System (Paket Wedding)**
+
+| Paket | Untuk | Harga | Isi utama | Kapasitas |
+|---|---|---|---|---|
+| Paket A | Engagement / meeting | Rp 850.000 | 2 speaker aktif, 1 monitor, mixer 8 ch, 2 mic wireless, mic kabel, kabel, stand mic | ±100 |
+| Paket B | Wedding / gathering | Rp 1.300.000 | 3.000 W, 2 monitor, 2 delay, mixer digital 12 ch, 2 mic wireless, 3 mic kabel, 2 DI | ±500, akustik |
+| Paket Silver | Wedding / gathering | Rp 2.500.000 | 5.000 W (Top 112, Sub 118), 3 monitor, 2 delay, Midas MR18, 3 wireless, 2 kabel, 6 DI, **genset 10 kVA** | ±500, akustik/band |
+| Paket Gold (groundstage) | Wedding / gathering | Rp 3.500.000 | 5.000 W (Top 215, Sub 218), 4 monitor, 2 delay, Midas M32, 3 wireless, **genset 20 kVA** | ±800, akustik/band/klasik |
+| Premium Large (line array) | Gala dinner / semi konser | Rp 12.000.000 | 10.000 W, 6 monitor stage, mixer digital 32 ch, **genset 40 kVA** | ±1.000, full band, indoor/outdoor |
+
+**Lighting** (termasuk tripod, kru, instalasi)
+
+| Paket | Harga | Isi |
+|---|---|---|
+| General | Rp 750.000 | 2 fresnel |
+| Minimalis | Rp 1.800.000 | 2 fresnel, 2 beam, mixer control |
+| Silver | Rp 3.500.000 | 2 fresnel, 4 beam, 4 par LED, 1 hazer, mixer control |
+| Gold | Rp 5.000.000 | 4 fresnel, 8 beam, 6 par LED, 1 hazer, mixer control |
+| AC Pelaminan (4 PK) | Rp 850.000 | |
+| Mistyfan | Rp 250.000 | |
+
+**Genset** (termasuk BBM, kru, durasi 8 jam): 10 kVA 750rb · 15 kVA 1 jt · 20 kVA 1,35 jt · 25 kVA 1,55 jt · 30 kVA 1,85 jt · 40 kVA 2,4 jt · 50 kVA 3 jt · 60 kVA 3,5 jt · 80 kVA 4 jt · 100 kVA 5 jt.
+
+Jenis acara di price list: Wedding, Gathering, Private Event, Live Musik, dll.
+
+Catatan: logo di price list berbentuk lingkaran (LT merah, PRO emas, cincin merah), berbeda dengan banner Maps.
+
 ## 2. Data yang tidak ditemukan
 
 - Instagram tidak bisa dibaca otomatis (diblokir untuk bot), jadi foto, jumlah follower, dan caption belum diambil.
 - Tidak ada website, marketplace, atau artikel yang membahas LT Production.
-- Tidak ditemukan daftar harga, portofolio, ulasan, atau merek alat yang dipakai.
+- Tidak ditemukan portofolio atau ulasan.
 
 Semua data di bawah ini yang ditandai **DUMMY** perlu dicek dan diganti pemilik.
 
-## 3. Riset pasar (pembanding harga Jogja)
+## 3. Riset pasar (pembanding harga Jogja, sebelum ada price list resmi)
 
 Pembanding dari halaman sewa sound di Jogja (soundjogja.com, catatan: situs itu menyebut kontennya hanya contoh, jadi angkanya dipakai sebagai patokan kasar saja):
 
@@ -74,8 +103,6 @@ Setiap tombol WhatsApp membawa pesan otomatis sesuai paket yang dipilih, supaya 
 
 ## 6. Daftar data DUMMY (wajib dicek pemilik)
 
-- Semua harga paket, tambahan, dan genset
-- Isi paket (jumlah speaker, watt, jumlah mic, jumlah lampu)
 - Semua portofolio (nama lokasi, tanggal) dan gambarnya (masih ilustrasi)
 - Semua testimoni (nama dan isi)
 - Angka "200+ acara" dan "sejak 2018"

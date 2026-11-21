@@ -6,7 +6,7 @@ Website statis murni (HTML + CSS + sedikit JavaScript), tanpa proses build. Ting
 
 ## Isi halaman
 
-Hero + paket terlaris · masalah yang sering terjadi di hajatan · layanan (sound, genset, lighting) · daftar harga (3 paket, sewa genset, tambahan) · portofolio · cara pesan · testimoni · area layanan + peta · tanya jawab · kontak.
+Hero + paket rekomendasi · masalah yang sering terjadi di hajatan · layanan (sound, genset, lighting) · daftar harga resmi (5 paket sound, 4 paket lighting + AC pelaminan & mistyfan, 10 pilihan genset) · portofolio · cara pesan · testimoni · area layanan + peta · tanya jawab · kontak.
 
 Semua tombol WhatsApp membuka chat ke **0857-4015-9888** dengan pesan otomatis sesuai paket yang diklik.
 
@@ -32,15 +32,13 @@ python3 -m http.server 8000
 
 ## Yang perlu diganti sebelum online
 
-Data di bawah masih **contoh (dummy)** karena belum ditemukan data aslinya. Detail lengkap di `docs/brand-research.md`.
+Harga sudah memakai price list resmi. Data di bawah masih **contoh (dummy)** karena belum ditemukan data aslinya. Detail lengkap di `docs/brand-research.md`.
 
 | Yang diganti | Di mana |
 |---|---|
-| Harga paket, genset, dan tambahan | `index.html` bagian `#harga`, dan `makesOffer` di JSON-LD |
-| Isi paket (jumlah speaker, watt, mic) | `index.html` bagian `#harga` |
 | Foto portofolio | Ganti file di `assets/img/portfolio/` dengan foto asli (rasio 4:3), sesuaikan judul & lokasi |
 | Testimoni | `index.html` bagian testimoni |
-| Angka "200+ acara" dan "2018" | `index.html` bagian hero |
+| Angka "200+ acara" | `index.html` bagian hero |
 | Jam buka (sekarang "setiap hari 08.00–21.00") | `index.html` bagian `#kontak` dan JSON-LD |
 | Logo | `assets/img/logo.svg` masih gambar ulang dari banner Google Maps, ganti dengan file logo asli bila ada |
 
