@@ -312,19 +312,6 @@ strong {
   padding-block: var(--s-7) var(--s-8);
   overflow: hidden;
 }
-.hero::before {
-  /* aksen garis merah seperti logo */
-  content: "";
-  position: absolute;
-  right: -120px;
-  top: -80px;
-  width: 420px;
-  height: 420px;
-  border: 28px solid var(--c-red);
-  opacity: 0.12;
-  transform: skewX(-10deg);
-  pointer-events: none;
-}
 .hero .container {
   position: relative;
   display: grid;
@@ -557,6 +544,7 @@ strong {
   color: var(--c-muted);
 }
 .plan__power {
+  align-self: flex-start;
   display: inline-block;
   margin-top: var(--s-3);
   padding: 4px 10px;
@@ -659,11 +647,16 @@ strong {
 }
 .work__img {
   position: relative;
-  aspect-ratio: 4 / 3;
+  aspect-ratio: 16 / 10;
   display: grid;
   place-items: center;
   color: rgba(255, 255, 255, 0.85);
   overflow: hidden;
+}
+@media (min-width: 600px) {
+  .work__img {
+    aspect-ratio: 4 / 3;
+  }
 }
 .work__img img {
   width: 100%;
