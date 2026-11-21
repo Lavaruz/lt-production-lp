@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lavaruz.github.io/lt-production-lp/sitemap.xml
